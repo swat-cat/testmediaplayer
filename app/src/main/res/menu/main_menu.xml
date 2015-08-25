@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:hmkcode="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_item_search"
+        android:title="@string/search"
+        android:icon="@android:drawable/ic_menu_search"
+        hmkcode:showAsAction="always"
+        hmkcode:actionViewClass="android.support.v7.widget.SearchView"/>
+    <!--<item
+        android:title="@string/search_filter"
+        android:id="@+id/search_filter">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:title="@string/title"
+                    android:id="@+id/title_search_filter"
+                    android:checked="true"/>
+                <item android:title="@string/artist"
+                    android:id="@+id/artist_search_filter"/>
+                <item android:title="@string/album"
+                    android:id="@+id/album_search_filter"/>
+            </group>
+        </menu>
+
+    </item>
+    <item
+        android:title="@string/sort_filter"
+        android:id="@+id/sort_filter">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:title="@string/title"
+                    android:id="@+id/title_sort_filter"
+                    android:checked="true"/>
+                <item android:title="@string/artist"
+                    android:id="@+id/artist_sort_filter"/>
+                <item android:title="@string/album"
+                    android:id="@+id/album_sort_filter"/>
+            </group>
+        </menu>
+    </item>-->
+
+</menu>

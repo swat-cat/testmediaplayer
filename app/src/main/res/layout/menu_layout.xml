@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/back"
+    android:layout_margin="16dp">
+
+    <Button
+        android:id="@+id/all_songs"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/all_songs"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="8dp" />
+
+    <Button
+        android:id="@+id/from_folder"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/from_folder"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/search_filter"
+        style="?android:listSeparatorTextViewStyle"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp" />
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/search_filter"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp">
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/title_search_filter"
+            android:text="@string/title"
+            android:checked="true"/>
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/artist_search_filter"
+            android:text="@string/artist" />
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/album_search_filter"
+            android:text="@string/album" />
+    </RadioGroup>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/sort_filter"
+        style="?android:listSeparatorTextViewStyle"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp" />
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/sort_filter"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="8dp">
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/title_sort_filter"
+            android:text="@string/title"
+            android:checked="true"/>
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/artist_sort_filter"
+            android:text="@string/artist" />
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/album_sort_filter"
+            android:text="@string/album" />
+    </RadioGroup>
+
+</LinearLayout>

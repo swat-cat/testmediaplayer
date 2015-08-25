@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:hmkcode="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/choose_folder"
+        android:title="@string/choose_folder"
+        android:icon="@mipmap/folder_g"
+        hmkcode:showAsAction="ifRoom"/>
+</menu>
