@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Dell\.gradle\caches\modules-2\files-2.1\joda-time\joda-time\2.8.1\f5bfc718c95a7b1d3c371bb02a188a4df18361a9\joda-time-2.8.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f5bfc718c95a7b1d3c371bb02a188a4df18361a9">
+        <dex dex="C:\Users\Dell\Desktop\Document\03\TestMediaPlayer\app\build\intermediates\pre-dexed\debug\joda-time-2.8.1-315f93756aeb388c3e3d8dadf747cebd630a372e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dell\AndroidStudioProjects\testmediaplayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Dell\AndroidStudioProjects\testmediaplayer\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-d15ab223456c5c66aa4c5dabe02db5f335601f5d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dell\AndroidStudioProjects\testmediaplayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Dell\AndroidStudioProjects\testmediaplayer\app\build\intermediates\pre-dexed\debug\classes-59409d66db45f876aa352c6f44dabc4524868d83.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dell\AndroidStudioProjects\testmediaplayer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Dell\AndroidStudioProjects\testmediaplayer\app\build\intermediates\pre-dexed\debug\classes-43a956d9522da75bb2ea1aec7c08fec285fae33a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dell\Desktop\Document\03\TestMediaPlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Dell\Desktop\Document\03\TestMediaPlayer\app\build\intermediates\pre-dexed\debug\classes-8a87689113642ba76dde59e7105f210537c43a64.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dell\Desktop\Document\03\TestMediaPlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Dell\Desktop\Document\03\TestMediaPlayer\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-659c0ef82c06835a37bc870a8a18d2ccd5329a56.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dell\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Dell\Desktop\Document\03\TestMediaPlayer\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-0d13d3a3798ab64a6c89f2aaf1a5ee562e49ef0f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dell\AndroidStudioProjects\testmediaplayer\app\build\intermediates\exploded-aar\com.jeremyfeinstein.slidingmenu\library\1.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e4072fd48238419f424a112fdeb828d91f69e1a">
+        <dex dex="C:\Users\Dell\AndroidStudioProjects\testmediaplayer\app\build\intermediates\pre-dexed\debug\classes-60247c89cc6b184ea72780d9f3170d433a6a5599.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dell\Desktop\Document\03\TestMediaPlayer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Dell\Desktop\Document\03\TestMediaPlayer\app\build\intermediates\pre-dexed\debug\classes-a56bb2781d3e626a4c8808a476240c2c72f7c915.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dell\Desktop\Document\03\TestMediaPlayer\app\build\intermediates\exploded-aar\com.jeremyfeinstein.slidingmenu\library\1.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e4072fd48238419f424a112fdeb828d91f69e1a">
+        <dex dex="C:\Users\Dell\Desktop\Document\03\TestMediaPlayer\app\build\intermediates\pre-dexed\debug\classes-c1f682eea8f56596a54baec8a46af19bfbb52ad9.jar" />
+    </item>
+
+</items>
